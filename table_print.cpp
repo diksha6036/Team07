@@ -11,6 +11,7 @@ int main(){
      t=n;
 
      while(i<=n*14 && j<=14){
+
          cout<<t<<"*"<<j<<"="<<i<<endl;
          i+=n;
          j++;
