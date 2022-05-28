@@ -10,7 +10,7 @@ int main(){
      i=n;
      t=n;
 
-     while(i<=n*10 && j<=10){
+     while(i<=n*11 && j<=11){
          cout<<t<<"*"<<j<<"="<<i<<endl;
          i+=n;
          j++;
